@@ -40,4 +40,4 @@ El objetivo principal es **practicar la lógica de programación**, el manejo de
 ## 📦 Instalación y uso
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/amigo-secreto.git
+   git clone https://github.com/GrosmannGabriela/Amigo-Secreto.git
